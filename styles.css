@@ -1,0 +1,52 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+
+table{
+    border-spacing: 0px;
+}
+
+
+body{
+    margin: 0px 0px 0px;
+    
+}
+
+td:hover{
+    background-color:#AFB0F0;
+}
+
+.tddimensions{
+    height: 80px;
+    color: black;
+    padding: 0px 25px 0px;
+    margin: 0;
+      
+}
+hr{
+    margin: 0;
+}
+
+.Image{
+    
+    width: 100%;
+   
+}
+
+
+.optionsmenu{
+   
+    width: 62%;
+    background-color: #CFDAEF;
+    font-family: "Brush Script MT", cursive, Arial, sans-serif;
+    font-size:large;
+    text-decoration: none;
+    position: relative;
+    left: auto;    
+    
+   
+    
+    
+    
+}
